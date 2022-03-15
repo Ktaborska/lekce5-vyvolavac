@@ -27,7 +27,7 @@ let jmena = [
     "Soňa"
 ];
 
-let tazenaJmena = [];
+let tazenaJmena = [jmena];
 
 function tahnoutJmeno() {
     if (jmena.length === 0) {
